@@ -1,0 +1,14 @@
+body{
+	background: url("../images/shutterstock.jpg") no-repeat fixed;
+	background-size: 100% ;
+}
+
+img.images{
+	min-width: 100%;
+	max-width: 100%;
+	height: 185px;
+}
+
+footer{
+	background-color: white;
+}
