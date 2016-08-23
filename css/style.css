@@ -55,16 +55,17 @@ label{
 	-webkit-transition: .1s ease-out;
 }
 
-.img-thumbnail:hover{
-	box-shadow: 0 0 30px rgba(0,0,0,0.7);
- 	z-index: 2;
- 	opacity: 1;
+.bigimage{
+	margin:20px 0;
 }
+
 
 .logo{
 	padding: 0;
 	margin: 0;
 	height: 69px;
+	text-align: center;
+	background: url(../images/aluminium-ray-ban-frames-the-first-metal-on-earth2.jpg);
 }
 
 .name_logo{
@@ -72,7 +73,7 @@ label{
 	margin: 6px 0;
 	font-size: 58px;
 	font-weight: 400;
-	color: #505350;
+	color: #EF256E;
 	opacity: 1;
 	letter-spacing: 6px;
 }
@@ -88,6 +89,7 @@ label{
 table.table{
 	border: 1px solid #34272C;
 }
+
 
 p.information{
 	color: #953759;
